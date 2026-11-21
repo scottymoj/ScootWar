@@ -1,0 +1,23 @@
+{
+ "name": "Scoot War",
+ "short_name": "Scoot War",
+ "start_url": "./",
+ "scope": "./",
+ "display": "standalone",
+ "orientation": "any",
+ "background_color": "#eeeef6",
+ "theme_color": "#2a1f12",
+ "icons": [
+  {
+   "src": "sw-icon2-192.png",
+   "sizes": "192x192",
+   "type": "image/png"
+  },
+  {
+   "src": "sw-icon2-512.png",
+   "sizes": "512x512",
+   "type": "image/png",
+   "purpose": "any"
+  }
+ ]
+}
